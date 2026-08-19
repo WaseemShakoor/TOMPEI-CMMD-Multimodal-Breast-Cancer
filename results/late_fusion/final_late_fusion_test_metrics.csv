@@ -1,0 +1,2 @@
+model,clinical_weight,image_weight,weight_selection,accuracy,precision,recall,specificity,f1,roc_auc,pr_auc,TN,FP,FN,TP
+Probability-level Late Fusion,1.0,0.0,Validation ROC-AUC,0.9337539432176656,0.9243243243243243,0.9606741573033708,0.8992805755395683,0.9421487603305785,0.9814081319214292,0.9837344029628186,125,14,7,171
