@@ -1,0 +1,2 @@
+model,architecture,selection_metric,best_validation_roc_auc,loss,accuracy,precision,recall,specificity,f1,roc_auc,pr_auc
+Fusion_B_with_BIRADS,Frozen two-view ConvNeXt-Tiny + clinical MLP,validation_roc_auc,0.8894456289978678,0.9922970803307622,0.7981072555205048,0.8518518518518519,0.7752808988764045,0.8273381294964028,0.8117647058823529,0.8716959017056018,0.8914052003993163

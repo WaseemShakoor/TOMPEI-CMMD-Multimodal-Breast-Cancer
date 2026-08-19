@@ -1,0 +1,3 @@
+model,best_validation_roc_auc
+Fusion A without BI-RADS,0.8640085287846482
+Fusion B with BI-RADS,0.8894456289978678
