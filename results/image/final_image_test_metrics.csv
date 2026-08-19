@@ -1,0 +1,2 @@
+model,architecture,selected_epoch,selection_metric,best_validation_roc_auc,loss,accuracy,precision,recall,specificity,f1,roc_auc,pr_auc
+ConvNeXt-Tiny,Two-view shared backbone,13,validation_roc_auc,0.863539,0.9138612354215387,0.7413249211356467,0.8243243243243243,0.6853932584269663,0.8129496402877698,0.7484662576687117,0.8283889742138875,0.8628081128504964
