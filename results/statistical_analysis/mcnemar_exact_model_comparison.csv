@@ -1,0 +1,4 @@
+comparison,A_correct_B_wrong,A_wrong_B_correct,discordant_pairs,exact_p_value
+Multimodal Fusion vs Image-only,20,2,22,0.00012111663818359375
+Clinical-only vs Multimodal Fusion,53,11,64,1.0058579844832594e-07
+Clinical-only vs Image-only,72,12,84,1.3932285101509037e-11
